@@ -2,6 +2,7 @@
 <p>This is a part of my learning. :) </p>
 
 <h2>Main Page</h2>
+<img src="https://github.com/isibol98/Front-End-Basics/blob/main/HTML/Third_web/main.png?raw=true" alt="main">
 ![](https://github.com/isibol98/Front-End-Basics/blob/main/HTML/Third_web/main.png?raw=true)
 
 <hr>
