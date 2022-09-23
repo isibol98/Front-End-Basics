@@ -1,0 +1,52 @@
+body {
+    background-color: burlywood;
+    text-align: center;
+}
+h1, h2, h3, h4 {
+    color: brown;
+}
+
+h1 {
+    font-size: 42px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+.navigator ul {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.navigator li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 4px;
+}
+
+.info {
+    text-align: center;
+    font-size: 24px;
+}
+
+.info ul li{
+    overflow: hidden;
+}
+
+hr {
+    width:30%;
+    display: block;
+    border-style: double;
+}
+
+.about-us {
+    text-align: center;
+    font-size: 24px
+}
